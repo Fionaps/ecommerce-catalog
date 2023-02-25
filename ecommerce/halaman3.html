@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="icon" href="/favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="halaman3.css" src="/assets/base.css" src="/assets/main.css">
+        <title>E-Commerce</title>
+        <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+    </head>
+
+    <body>
+        <div id="app">
+            <div id="latar_pink">
+                <div class="box">
+                    <div class="teks">
+                        <!-- sad face -->
+                        <div class="mata">:</div>
+                        <div class="mulut">(</div>
+
+                        <!-- keterangan -->
+                        <div class="keterangan">This product is unavailable to show</div>
+
+                        <!-- tombol next -->
+                        <a href="halaman1.html">
+                            <span class="box_next">
+                                <p class="next_product">Next product</p>
+                            </span>
+                        </a>
+                        <div id="loading">
+                            <span class="loader"></span>
+                            <div class="textLoader">
+                                <center>
+                                    <b>Please Wait ... </b>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="latar_putih"></div>
+        </div>
+            
+        <!-- Javascript code -->
+        <script src="loader.js"></script>
+        <body onload="loader()">
+
+    </body>
+</html>

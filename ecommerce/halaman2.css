@@ -1,0 +1,515 @@
+#latar_pink {
+    position: absolute;
+    width: 1283px;
+    height: 548px;
+    top: 0px;
+    left: -3px;
+    background: #D6E6FF;
+}
+#latar_putih {
+    position: absolute;
+    width: 1283px;
+    height: 100px;
+    top: 700px;
+    left: -3px;
+    background: #FFFFFF;
+}
+/* ikon buat latar belakang */
+/* Pergrup */
+#ikon1 {
+    position: absolute;
+    width: 378.21px;
+    height: 213px;
+    left: 19px;
+    top: -34px;
+}
+#ikon2 {
+    position: absolute;
+    width: 378.21px;
+    height: 213px;
+    left: -6px;
+    top: 171px;
+}
+#ikon3 {
+    position: absolute;
+    width: 378.21px;
+    height: 213px;
+    left: 401px;
+    top: 0px;
+}
+#ikon4 {
+    position: absolute;
+    width: 378.21px;
+    height: 213px;
+    left: 789px;
+    top: -44px;    
+}
+#ikon6 {
+    position: absolute;
+    width: 378.21px;
+    height: 213px;
+    left: 994px;
+    top: 310px;
+}
+#ikon7 {
+    position: absolute;
+    width: 378.21px;
+    height: 138.21px;
+    left: -63px;
+    top: 407px;
+}
+#ikon8 {
+    position: absolute;
+    width: 378.21px;
+    height: 213px;
+    left: 493.58px;
+    top: 94px;
+    transform: rotate(56deg);
+}
+
+/* Perikon */
+.ellipse1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 290px;
+    top: 115px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 100%;
+}
+.ellipse2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 224px;
+    top: 1px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 100%;
+}
+.ellipse3 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 171px;
+    top: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 100%;
+}
+.retangle1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 337px;
+    top: -15px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+.retangle2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 290px;
+    top: 29px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+.retangle3 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 156px;
+    top: 108px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+.retangle4 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 176px;
+    top: -29px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+.retangle5 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 214px;
+    top: 159px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+.retangle6 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 104px;
+    top: 16px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+.polygon1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 244.91px;
+    top: 54px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    transform: rotate(35.5deg);
+}
+.polygon2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 84.91px;
+    top: 119px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    transform: rotate(35.5deg);
+}
+.polygon3 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 39.91px;
+    top: 39px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    transform: rotate(35.5deg);
+}
+.polygon4 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 367.91px;
+    top: 54px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    transform: rotate(35.5deg);
+}
+.polygon5 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 43.91px;
+    top: -34px;  
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    transform: rotate(35.5deg);
+}
+
+/*box*/
+.box
+{
+    position: absolute;
+    width: 1034px;
+    height: 550px;
+    left: 125px;
+    top: 123px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+img {
+    position: absolute;
+    left: 35px;
+    top: 73px;
+    width: 370px;
+}
+#bigfont {
+    position: absolute;
+    left: 460px;
+    top: 25px;
+    font-family: arial;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    color: #002772;
+}
+#font1 {
+    /* women's clothing */
+    position: absolute;
+    left: 460px;
+    top: 110px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #3F3F3F;
+}
+#font2 {
+    /* 2.9/5 */
+    position: absolute;
+    left: 865px;
+    top: 110.5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #3F3F3F;
+}
+#lingkaran1 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 895px;
+    top: 113px;
+    background: #002772;
+    border-radius: 100%;
+}
+#lingkaran2 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 915px;
+    top: 113px;
+    background: #002772;
+    border-radius: 100%;
+}
+#lingkaran3 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 935px;
+    top: 113px;
+    background: #002772;
+    border-radius: 100%;
+}
+#lingkaran4 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 955px;
+    top: 113px;
+    background: #FFFFFF;
+    border: 1px solid #002772;
+    border-radius: 100%;
+}
+#lingkaran5 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 975px;
+    top: 113px;
+    background: #FFFFFF;
+    border: 1px solid #002772;
+    border-radius: 100%;
+}
+.horizontal_atas {
+    position: absolute;
+    width: 530px;
+    height: 0px;
+    left: 460px;
+    top: 142px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+#paragraph {
+    position: absolute;
+    width: 517px;
+    height: 163px;
+    left: 460px;
+    top: 157px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #1E1E1E;
+}
+.horizontal_bawah {
+    position: absolute;
+    width: 530px;
+    height: 0px;
+    left: 460px;
+    top: 390px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+#harga {
+    position: absolute;
+    width: 97px;
+    height: 34px;
+    left: 460px;
+    top: 382px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    color: #002772;
+}
+.box_buy {
+    box-sizing: border-box;
+    position: absolute;
+    width: 235px;
+    height: 42px;
+    left: 460px;
+    top: 460px;
+    background: #002772;
+    border-radius: 4px;
+}
+.buy {
+    position: absolute;
+    top: -11px;
+    left: 83px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.box_next {
+    box-sizing: border-box;
+    position: absolute;
+    width: 235px;
+    height: 42px;
+    left: 755px;
+    top: 460px;
+    background: #FFFFFF;
+    border: 3px solid #002772;
+    border-radius: 4px;
+}
+.next_product {
+    position: absolute;
+    top: -13px;
+    left: 65px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #002772;
+}
+.next {
+    cursor: pointer;
+    transition: 0,6s ease;
+    user-select: none;
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+.next:hover {
+    background-color: rgba(0,0,0,0.8);
+}
+
+/* Fading animation */
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+
+/*loader*/
+#loading {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: center no-repeat #fff;
+}
+ 
+/*-- css spin --*/
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+ 
+/*-- css loader --*/
+.no-js #loader { display: none; }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+ 
+.loader {
+    border: 10px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 10px solid #720060;
+    border-bottom: 10px solid #002772;
+    width: 150px;
+    height: 150px;
+    left: 43.5%;
+    top: 20%;
+    -webkit-animation: spin 2s linear infinite;
+    position: fixed;
+    animation: spin 2s linear infinite;
+}
+ 
+.textLoader{
+    position: fixed;
+    top: 56%;
+    left: 45.6%;
+    color: #34495e;
+}
+   
+/*-- responsive --*/
+    @media screen and (max-width: 1034px){
+        .textLoader{
+            left: 46.2%;
+        }
+    }
+ 
+    @media screen and (max-width: 824px){
+        .textLoader {
+            left: 47.2%;
+        }
+    }
+ 
+    @media screen and (max-width: 732px){
+        .textLoader {
+            left: 48.2%;
+        }
+    }
+ 
+    @media screen and (max-width: 500px){
+        .loader{
+            left: 36.5%;;
+        }
+        .textLoader {
+            left: 40.5%;
+        }
+    }
+ 
+    @media screen and (max-height: 432px){
+        .textLoader {
+            top: 65%;
+        }
+    }
+ 
+    @media screen and (max-height: 350px){
+        .textLoader {
+            top: 75%;
+        }
+    }
+ 
+    @media screen and (max-height: 312px){
+        .textLoader {
+            display: none;
+        }
+    }
+/*-- responsive --*/
